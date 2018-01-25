@@ -23,3 +23,5 @@ def read_coordinate_file(filename):
 name = "SampleCoordinates.txt"
 
 read_coordinate_file(name)
+
+coding...
