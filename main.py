@@ -20,8 +20,8 @@ def read_coordinate_file(filename):
         print(line.rstrip())
 
 
+
 name = "SampleCoordinates.txt"
 
 read_coordinate_file(name)
-
-coding...
+a = np.pi
